@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/RUN-MATLAB_R2023b-purple)
+![Static Badge](https://img.shields.io/badge/BUILD-C%2B%2B-blue)
+![Static Badge](https://img.shields.io/badge/OS-APPLE_SILICON-green)
+
 # NLX2MAC
 A lot of neuroscientists use APPLE environment rather than Windows for their researches, 
 however, there are no adequate tools to analyze electrophysiological data. Thus, we modified some of the
@@ -21,4 +25,10 @@ are all rights reserved to the _Neuralynx_ and the Dr. Ueli Rutishauser's Lab.
 6. Check the functions are working.
 
 # Usage
-- Follow example *.m files in this repository OR the original Nlx-MATLAB utility functions that are providing from the _Neuralynx_.
+- Follow example *.m files in this repository OR the original Nlx-MATLAB utility functions that are providing 
+from the _Neuralynx_.
+
+# Contact
+Please contact through e-mail (minseok.kim#brain.snu.ac.kr) for more information or issues.
+
+**Error** can be reported through [Git Issue](https://github.com/minsmis/NLX2MAC/issues).
