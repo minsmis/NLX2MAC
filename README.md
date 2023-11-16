@@ -9,9 +9,13 @@ are all rights reserved to the _Neuralynx_ and the Dr. Ueli Rutishauser's Lab.
 2. Open the **compile.sh** in the **source** folder.
 3. Change some variables to adequate for your working environment.
    - Change the **PLATFORM** name to your architecture name.
-   ![CHANGE_PLATFORM_NAME] (./Figures/Change_PLATFORM.png)
+   
+   ![CHANGE_PLATFORM](./Figures/Change_PLATFORM.png)
+
    - Change the **MATLAB PATH**.
-   ![CHANGE_MATLAB_PATH] (./Figures/Change_MATLAB_PATH.png)
+
+   ![CHANGE_MATLAB_PATH](./Figures/Change_MATLAB_PATH.png)
+
 4. Run **compile.sh** in your MATLAB or Terminal (Recommend run in terminal).
 5. Add **PATH** of the binaries folder (Location of mex functions) into your MATLAB settings.
 6. Check the functions are working.
